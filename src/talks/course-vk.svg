@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="225" viewBox="0 0 400 225" role="img" aria-label="Курс Архитектура и DevOps в 1С — все видео в VK">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141A24"/>
+      <stop offset="55%" stop-color="#1B2534"/>
+      <stop offset="100%" stop-color="#0E1520"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2F6FED"/>
+      <stop offset="100%" stop-color="#0077FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="225" rx="10" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="399" height="224" rx="9.5" fill="none" stroke="#2C3A4D"/>
+  <rect x="0" y="0" width="400" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <g opacity="0.10" stroke="#7FB0FF" fill="none">
+    <rect x="286" y="34" width="78" height="26" rx="5"/>
+    <rect x="286" y="80" width="78" height="26" rx="5"/>
+    <rect x="286" y="126" width="78" height="26" rx="5"/>
+    <path d="M325 60 v20 M325 106 v20"/>
+  </g>
+
+  <circle cx="56" cy="112" r="27" fill="url(#accent)"/>
+  <path d="M48 100 l22 12 -22 12 z" fill="#FFFFFF"/>
+
+  <text x="98" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#7FB0FF" letter-spacing="1.6">ВИДЕО КУРСА</text>
+  <text x="98" y="120" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F0F4FA">Архитектура и DevOps</text>
+  <text x="98" y="144" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F0F4FA">в 1С</text>
+  <text x="98" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#93A3B8">vk.com/archdevops</text>
+</svg>
