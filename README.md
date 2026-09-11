@@ -7,8 +7,6 @@
   <a href="https://github.com/KuzinRoman?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/KuzinRoman?style=for-the-badge&label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&logo=github&logoColor=white&color=181717"/></a>
 </p>
 
-<a href="https://gitfut.com/KuzinRoman"><img src="https://gitfut.com/KuzinRoman.png" alt="GitFut: карточка игрока" align="left" width="300" hspace="16"/></a>
-
 ### О себе
 
 - Enterprise-архитектор: прошел путь от стажера-разработчика 1С до корпоративного архитектора
@@ -25,9 +23,7 @@
 - [Юнит-тестирование на YAxUnit](https://github.com/KuzinRoman/yaxunit) — репозиторий урока с курса
 - [ArchiMate для 1С](https://github.com/KuzinRoman/archimate_1C) — визуализация процессов и компонентов в Archi
 - [Примеры ADR](https://github.com/KuzinRoman/ADR) — как фиксировать архитектурные решения
-- [GitLab: код и команды](https://github.com/KuzinRoman/gitlab) — презентация с примерами по курсу
-
-<br clear="left"/>
+- [Разворачиваем GitLab в Docker для 1С](https://github.com/KuzinRoman/gitlab) — презентация с кодом и командами по курсу
 
 ## Стек
 
@@ -93,8 +89,7 @@
 ## Активность
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuzinRoman/KuzinRoman/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/KuzinRoman/KuzinRoman/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuzinRoman/KuzinRoman/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuzinRoman/KuzinRoman/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/KuzinRoman/KuzinRoman/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
 </picture>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite)](https://github.com/piyushsuthar/github-readme-quotes)
