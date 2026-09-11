@@ -7,22 +7,48 @@
   <a href="https://github.com/KuzinRoman?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/KuzinRoman?style=for-the-badge&label=%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B&logo=github&logoColor=white&color=181717"/></a>
 </p>
 
-### О себе
+## О себе
 
 - Enterprise-архитектор: прошел путь от стажера-разработчика 1С до корпоративного архитектора
 - Автор и преподаватель курса «Архитектура и DevOps в 1С»
 - Спикер Инфостарт
 
-### Полезное
+## Курс
 
 - [Архитектура и DevOps в 1С](https://archdevops.ru) — курс для разработчиков, тимлидов и архитекторов
 - [Телеграм-канал курса](https://t.me/kurs1c_architect) — анонсы, разборы, материалы
 - [Сообщество ВКонтакте](https://vk.com/archdevops) — видео по темам курса
+
+## Полезные репозитории
+
 - [DB-Orchestrator](https://github.com/KuzinRoman/DB-Orchestrator) — пайплайн резервного копирования и восстановления БД: 1С, MSSQL, PostgreSQL
 - [Юнит-тестирование на YAxUnit](https://github.com/KuzinRoman/yaxunit) — репозиторий урока с курса
 - [ArchiMate для 1С](https://github.com/KuzinRoman/archimate_1C) — визуализация процессов и компонентов в Archi
 - [Примеры ADR](https://github.com/KuzinRoman/ADR) — как фиксировать архитектурные решения
 - [Разворачиваем GitLab в Docker для 1С](https://github.com/KuzinRoman/gitlab) — презентация с кодом и командами по курсу
+
+## Видео с курсов
+
+- [Разворачиваем GitLab на Linux для 1С без знания Linux](https://vkvideo.ru/video-229431761_456239028?list=684ad3d8813092d177)
+- [Бекапирование и разворачивание баз 1С через Jenkins](https://vkvideo.ru/video-229431761_456239026) — ibcmd, sqlcmd, psql
+- [Юнит-тестирование 1С: применяем YAxUnit на реальном примере](https://vkvideo.ru/video-229431761_456239022)
+
+## Выступления на конференциях
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://vkvideo.ru/video-42867005_456240911"><img src="src/talks/infostart-architecture.png" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Как построить корпоративную архитектуру на 400 интеграций и 300 систем</b></sub><br/>
+      <sub><a href="https://infostart.ru/pm/2628324/">Статья</a></sub>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://vkvideo.ru/video-42867005_456239727"><img src="src/talks/infostart-rabbitmq.png" width="100%"/></a><br/>
+      <sub><b>Инфостарт · Повышаем надежность интеграций с RabbitMQ: контрактные тесты в несколько кликов</b></sub><br/>
+      <sub><a href="https://infostart.ru/1c/articles/2450388/">Статья</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## Стек
 
@@ -57,33 +83,9 @@
 ![Vanessa ADD](https://img.shields.io/badge/Vanessa%20ADD-6E40C9?style=for-the-badge&logoColor=white)
 ![YAxUnit](https://img.shields.io/badge/YAxUnit-2E9E4F?style=for-the-badge&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-## Выступления на конференциях
-
-<table>
-  <tr>
-    <td width="33.33%" valign="top" align="center">
-      <a href="https://vkvideo.ru/video-42867005_456240911"><img src="src/talks/infostart-architecture.png" width="100%"/></a><br/>
-      <sub><b>Инфостарт · Как построить корпоративную архитектуру на 400 интеграций и 300 систем</b></sub><br/>
-      <sub><a href="https://infostart.ru/pm/2628324/">Статья</a></sub>
-    </td>
-    <td width="33.33%" valign="top" align="center">
-      <a href="https://vkvideo.ru/video-42867005_456239727"><img src="src/talks/infostart-rabbitmq.png" width="100%"/></a><br/>
-      <sub><b>Инфостарт · Повышаем надежность интеграций с RabbitMQ: контрактные тесты в несколько кликов</b></sub><br/>
-      <sub><a href="https://infostart.ru/1c/articles/2450388/">Статья</a></sub>
-    </td>
-    <td width="33.33%" valign="top" align="center">
-      <a href="https://vk.com/archdevops"><img src="src/talks/course-vk.svg" width="100%"/></a><br/>
-      <sub><b>Курс «Архитектура и DevOps в 1С» · все видео</b></sub><br/>
-      <sub><a href="https://archdevops.ru">archdevops.ru</a></sub>
-    </td>
-  </tr>
-</table>
 
 ## Активность
 
